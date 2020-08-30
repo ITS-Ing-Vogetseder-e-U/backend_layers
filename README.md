@@ -1,3 +1,3 @@
-# AWS Lambda Layers for the Healthcare Backend
+# AWS Lambda Layers
 
 Collection of lambda layers.
